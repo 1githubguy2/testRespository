@@ -4,4 +4,8 @@ public class Test {
 	void m1() {
 		
 	}
+	
+	void m2() {
+		
+	}
 }
