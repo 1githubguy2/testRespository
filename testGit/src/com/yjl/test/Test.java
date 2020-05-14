@@ -4,7 +4,4 @@ public class Test {
 	void m() {
 		
 	}
-	void m1() {
-		
-	}
 }
