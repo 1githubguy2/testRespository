@@ -7,4 +7,7 @@ public class Test {
 	void m2() {
 		
 	}
+	void m1() {
+		
+	}
 }
